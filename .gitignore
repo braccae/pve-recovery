@@ -1,0 +1,4 @@
+private
+logs
+.env
+*.env
